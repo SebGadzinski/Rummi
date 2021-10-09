@@ -8,7 +8,7 @@ Run the GameServer, then three players, and follow instructions to
 ## Testing
 Run TestSuiteRunner
 
-##Authors
+## Authors
 Sebastian Gadzinski
 
 This code is based off of Yahio's Zheng original code
