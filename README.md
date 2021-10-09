@@ -6,7 +6,7 @@ Cards: R = Hearts, B = Spades, G = Clubs, O = Diamonds
 Run the GameServer, then three Players, and follow instructions
 
 ## Testing
-Contains testing the game thouroly via network
+Contains testing the game thoroughly via network
 Run TestSuiteRunner
 
 ## Authors
