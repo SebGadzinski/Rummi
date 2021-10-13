@@ -60,7 +60,7 @@ public class GameServerCommander {
     }
 
     /**
-     * ================================================COMMONLY_USED================================================
+     * ================================================_COMMONLY_USED_================================================
      */
 
     public List<List<String>> getGameTable() throws IOException {

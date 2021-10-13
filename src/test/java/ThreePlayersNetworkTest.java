@@ -26,7 +26,7 @@ public class ThreePlayersNetworkTest extends TestCase{
     }
 
     /**
-     * Connects all players ot the game to the game
+     * Connects all players to the game
      *
      */
     protected static void connectPlayers() throws InterruptedException {
