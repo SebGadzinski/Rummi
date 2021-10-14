@@ -7,6 +7,7 @@ Run the GameServer, then three Players, and follow instructions
 
 ## Testing
 Contains testing the game thoroughly via network
+
 Run TestSuiteRunner
 
 ## Errors?
